@@ -1,0 +1,18 @@
+### Example user template template
+### Example user template
+/sitemap.xml
+# IntelliJ project files
+/.idea
+/.idea/nmagecom.local.iml
+/.idea/workspace.xml
+.idea/*
+/sitemap.xml
+/wp-config.php
+/wp-admin
+/wp-includes
+/wp-content/plugins
+*.iml
+out
+gen
+# Created by .ignore support plugin (hsz.mobi)
+wp-content/uploads/*
